@@ -1,3 +1,3 @@
-Name: Gabriel Pierre Sandoval Gombart
-Major: BSCS
-Expected Graduation Date: April 2030
+Name: Gabriel Pierre Sandoval Gombart || 
+Major: BSCS || 
+Expected Graduation Date: April 2030 
